@@ -3,7 +3,7 @@ go:
   version: 1.13
 
 repository:
-  path: github.com/shamil/burrow_exporter
+  path: github.com/jbvmio/burrow_exporter
 
 build:
   flags: -a -tags netgo
